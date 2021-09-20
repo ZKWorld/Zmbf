@@ -46,3 +46,5 @@ ls
 
 python2 zmbf.py
 
+Type ZK or zk to use tool
+
