@@ -18,6 +18,12 @@
 
 [05] Check Cracked Checkpoint Accounts 
 
+[06] Crack From Files    
+
+[07] Create Only Old Idz File   
+
+[08] Create Unlimited Idz File   
+
 ***** Password Menu *****
 
 [01] Default Passwords Press (D/d)
